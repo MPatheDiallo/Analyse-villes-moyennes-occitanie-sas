@@ -77,7 +77,7 @@ Variables analysées :
 
 L'analyse montre que la croissance des villes moyennes repose principalement sur les migrations plutôt que sur le solde naturel.
 
-![Soldes](images/Nuage%20soldes%20naturel%20migratoire.jpeg)
+![Soldes](images/Soldes.png)
 
 ---
 
